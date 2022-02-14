@@ -1,5 +1,13 @@
 # @antv/xflow-core
 
+## 1.0.33
+
+### Patch Changes
+
+- ff57ccc1: chore: enable importHelper option in tsconfig.json
+- Updated dependencies [ff57ccc1]
+  - @antv/xflow-hook@1.0.33
+
 ## 1.0.32
 
 ### Patch Changes
